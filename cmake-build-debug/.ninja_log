@@ -1,5 +1,0 @@
-# ninja log v5
-0	15	1660335234161605552	build.ninja	45b1c115aceb836d
-0	263	1651186237117991613	src/logiclone/CMakeFiles/logiclone.dir/Configuration.cpp.o	b3922780c8ec1a97
-263	305	1651186237157990920	logiclone	92056f0ffaf23d90
-0	251	1651185071570180977	src/logiclone/CMakeFiles/logiclone.dir/logiclone.cpp.o	21fff097033aac93
