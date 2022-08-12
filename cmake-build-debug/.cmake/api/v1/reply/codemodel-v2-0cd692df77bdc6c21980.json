@@ -1,0 +1,89 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src/logiclone",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src.logiclone-Debug-5b9e2cef1b71051da2c5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "src/logiclone",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "logicopy"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "logiclone",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "logiclone::@d83fbb8d181a7ace2615",
+					"jsonFile" : "target-logiclone-Debug-eaf313a066606c933b33.json",
+					"name" : "logiclone",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ewoodward/logitech/logicopy/cmake-build-debug",
+		"source" : "/home/ewoodward/logitech/logicopy"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

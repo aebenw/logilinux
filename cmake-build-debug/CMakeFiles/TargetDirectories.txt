@@ -1,0 +1,13 @@
+/home/ewoodward/logitech/logicopy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/CMakeFiles/install.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/CMakeFiles/install/local.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/src/logiclone/CMakeFiles/logiclone.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/src/logiclone/CMakeFiles/edit_cache.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/src/logiclone/CMakeFiles/rebuild_cache.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/src/logiclone/CMakeFiles/list_install_components.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/src/logiclone/CMakeFiles/install.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/src/logiclone/CMakeFiles/install/local.dir
+/home/ewoodward/logitech/logicopy/cmake-build-debug/src/logiclone/CMakeFiles/install/strip.dir
