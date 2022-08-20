@@ -52,6 +52,8 @@ int main(int argc, char **argv) {
     ConfigOptions options {};
 
     global_config = std::make_shared<Configuration>(options.config_file);
+
+    //TODO: Make work q
     virtual_input = std::make_unique<InputDevice>("Logicopy_V_Input");
 
     return 0;

@@ -14,7 +14,7 @@ namespace logicopy {
     class Configuration {
     public:
         Configuration() = default;
-        explicit Configuration(const std::string &config_fp);
+        explicit Configuration(const std::string &config_file);
     private:
         libconfig::Config _config;
         std::map<std::string, std::string> _device_paths;

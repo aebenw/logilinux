@@ -9,7 +9,7 @@ namespace logicopy {
     class InputDevice {
     public:
         explicit InputDevice(const char *name);
-        ~InputDevice();
+//        ~InputDevice();
 
     private:
         const char *name;
